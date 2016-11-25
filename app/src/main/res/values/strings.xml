@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActionBar2</string>
+    <string name="action_search">搜索</string>
+    <string name="action_settings">设置</string>
+</resources>
